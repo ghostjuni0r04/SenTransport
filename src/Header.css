@@ -1,17 +1,16 @@
 .header {
   background-color: #0a6e31;
   color: white;
-  padding: 20px;
   text-align: center;
+  padding: 20px;
 }
 
-.header-titre {
+.header h1 {
   margin: 0;
   font-size: 2rem;
 }
 
-.header-soustitre {
+.header p {
   margin: 5px 0 0 0;
   font-size: 1rem;
-  opacity: 0.9;
 }
