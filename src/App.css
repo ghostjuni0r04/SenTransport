@@ -37,3 +37,10 @@
     margin-right: 12px;
   }
 }
+
+.aucun-resultat {
+  text-align: center;
+  color: #e74c3c;
+  font-size: 1rem;
+  margin-top: 30px;
+}
