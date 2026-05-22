@@ -47,4 +47,21 @@
     "arrets": 11,
     "listeArrets": ["Yoff Village", "Aeroport LSS", "Parcelles U17", "Grand Yoff", "HLM", "Sandaga"]
   }
+  ,
+{
+  "id": 7,
+  "numero": "34",
+  "depart": "Keur Massar",
+  "arrivee": "Centenaire",
+  "arrets": 9,
+  "listeArrets": ["Keur Massar", "Diamaguene", "Thiaroye", "Pikine", "HLM", "Liberté 6", "Liberté 5", "Fann", "Centenaire"]
+},
+{
+  "id": 8,
+  "numero": "42",
+  "depart": "Rufisque",
+  "arrivee": "Plateau",
+  "arrets": 7,
+  "listeArrets": ["Rufisque", "Bargny", "Thiaroye", "Yeumbeul", "Keur Massar", "Grand Yoff", "Plateau"]
+}
 ]
