@@ -1,3 +1,4 @@
+import Carte from './Carte';
 import { useState, useEffect } from 'react';
 import './App.css';
 import Header from './Header';
@@ -119,6 +120,7 @@ if (erreur) {
           />
         ))}
         {ligneSelectionnee && <DetailLigne ligne={ligneSelectionnee} />}
+        <Carte />
       </main>
       <Footer />
     </div>
